@@ -1,9 +1,16 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "tasks": {
+    "inProgressData": [
+      { "id": 1, "name": "Task in progress 1" },
+      { "id": 2, "name": "Task in progress 2" }
+    ],
+    "newData": [
+      { "id": 3, "name": "New task 1" },
+      { "id": 4, "name": "New task 2" }
+    ],
+    "doneData": [
+      { "id": 5, "name": "Completed task 1" },
+      { "id": 6, "name": "Completed task 2" }
+    ]
+  }
 }
