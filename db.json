@@ -1,16 +1,16 @@
 {
   "tasks": {
     "inProgressData": [
-      { "id": 1, "name": "Task in progress 1" },
-      { "id": 2, "name": "Task in progress 2" }
+      { "id": 1, "name": "Array lab" },
+      { "id": 2, "name": "srings lab" }
     ],
     "newData": [
-      { "id": 3, "name": "New task 1" },
-      { "id": 4, "name": "New task 2" }
+      { "id": 3, "name": "project " },
+      { "id": 4, "name": "codewars" }
     ],
     "doneData": [
-      { "id": 5, "name": "Completed task 1" },
-      { "id": 6, "name": "Completed task 2" }
+      { "id": 5, "name": "week 2 code challenge" },
+      { "id": 6, "name": "week 3 code challenge" }
     ]
   }
 }
